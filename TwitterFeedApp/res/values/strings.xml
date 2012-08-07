@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Top10Tweets</string>
+    <string name="twitter_feed_activity_title_message">Top 10 Banking Tweets</string>
+    <string name="menu_settings">Settings</string>
+    <string name="twitter_feed_loading_msg">Loading...Please wait</string>
+    <string name="twitter_feed_completion_msg">All top 10 tweet are shown!!</string>
+      <string name="twitter_login">Login</string>
+       <string name="twitter_login_username">UserName</string>
+        <string name="twitter_login_password">Password</string>
+    <string name="title_activity_twitter_feed">TwitterFeed</string>
+
+</resources>
